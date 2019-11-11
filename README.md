@@ -1,6 +1,6 @@
 # CSC391-Machine-Learning
 
-# Course Overview
+Course Overview
 An introduction to concepts and application of machine learning algorithms and
 techniques. Machine learning is an active and growing field that would require
 many courses to cover completely. This course aims at the middle of the
